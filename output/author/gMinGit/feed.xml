@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/gMinGit/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-02-27T14:29:37+09:00</updated>
+  <id>http://localhost:4000/author/gMinGit/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">MinGit IT Training | </title>
+  
+
+  
+    <subtitle>MinGit IT 학습 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">(2) Hello World</title>
+      <link href="http://localhost:4000/hello-world2" rel="alternate" type="text/html" title="(2) Hello World" />
+      <published>2021-02-27T09:02:00+09:00</published>
+      <updated>2021-02-27T09:02:00+09:00</updated>
+      <id>http://localhost:4000/hello-world2</id>
+      <content type="html" xml:base="http://localhost:4000/hello-world2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;test list&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;./hello-world&quot;&gt;android 강좌1&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;./hello-world2&quot;&gt;android 강좌2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+
+&lt;p&gt;환영합니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>gMinGit</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Android" />
+      
+
+      
+        <summary type="html">test list android 강좌1 android 강좌2</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hello World</title>
+      <link href="http://localhost:4000/hello-plan" rel="alternate" type="text/html" title="Hello World" />
+      <published>2021-02-27T09:02:00+09:00</published>
+      <updated>2021-02-27T09:02:00+09:00</updated>
+      <id>http://localhost:4000/hello-plan</id>
+      <content type="html" xml:base="http://localhost:4000/hello-plan">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+
+&lt;p&gt;환영합니다! 플랜입니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>gMinGit</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Plan" />
+      
+
+      
+        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">(1) Hello World</title>
+      <link href="http://localhost:4000/hello-world" rel="alternate" type="text/html" title="(1) Hello World" />
+      <published>2021-02-25T09:02:00+09:00</published>
+      <updated>2021-02-25T09:02:00+09:00</updated>
+      <id>http://localhost:4000/hello-world</id>
+      <content type="html" xml:base="http://localhost:4000/hello-world">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;test list&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;./hello-world&quot;&gt;android 강좌1&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;./hello-world2&quot;&gt;android 강좌2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+
+&lt;p&gt;환영합니다!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>gMinGit</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Android" />
+      
+
+      
+        <summary type="html">test list android 강좌1 android 강좌2</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
