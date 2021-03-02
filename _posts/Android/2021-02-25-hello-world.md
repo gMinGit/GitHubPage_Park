@@ -11,8 +11,8 @@ subclass: 'post'
 author: gMinGit
 ---
 
-{% include android-table-of-contents.html %}
+첫 게시글.
 
-Hey! Welcome to Ghost, it's great to have you :)
+이제부터 Android 게시글을 시작한다.
 
 환영합니다!

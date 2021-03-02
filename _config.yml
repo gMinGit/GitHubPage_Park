@@ -19,7 +19,7 @@ baseurl: /
 # Website info
 title: MinGit IT Training
 description: MinGit IT 학습 블로그
-cover:
+cover: assets/built/images/cover.jpg
 logo:
 logo_dark:
 favicon:
@@ -82,7 +82,7 @@ repo: gMinGit.github.io
 branch: master
 
 relative_source: 
-destination: ../WorkSpace/gMinGit.github.io/
+destination: ../gMinGit.github.io/
 production_url:  https://gMinGit.github.io/
 source_url:  https://github.com/gMinGit/gMinGit.github.io/
 
