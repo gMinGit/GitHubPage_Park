@@ -13,6 +13,6 @@ author: gMinGit
 
 첫 게시글.
 
-이제부터 Android 게시글을 시작한다.
+이제부터 Android 1234게시글을 시작한다.
 
 환영합니다!
