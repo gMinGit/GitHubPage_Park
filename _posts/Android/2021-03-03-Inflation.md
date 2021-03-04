@@ -1,15 +1,17 @@
 ---
 layout: post
 current: post
-cover:  assets/images/welcome.jpg
+cover:
 navigation: True
-title: Layout Inflation
+title: (1) Inflation
 date: 2021-03-03 18:50:00
 tags: [Android]
 class: post-template
 subclass: 'post'
 author: gMinGit
 ---
+
+{% include inflation-table-of-contents.html %}
 
 안드로이드의 앱은 어떻게 만들어지는 걸까?
 
@@ -20,14 +22,15 @@ author: gMinGit
 그렇다면 어떻게 XML 레이아웃 파일과 소스코드 파일이 연결되는 걸까?
 
 우리가 간단하게 안드로이드 스튜디오에서 예제 프로젝트를 실행하게 되면
-
-> public class MainActivity extends AppCompatActivity {
+~~~ java
+public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
 }
+~~~
 
 다음과 같이 코드가 생성된다. super.onCreate(savedInstanceState) 코드의 경우는 부모 클래스의 함수를 그대로 부르는것이다.
 
